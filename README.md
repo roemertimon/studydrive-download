@@ -4,8 +4,8 @@ Allows you to download PDF files from Studydrive for free. It also blocks their 
 
 Trusted by a growing community of active users. [(View download count)](https://tooomm.github.io/github-release-stats/?username=phawdk&repository=studydrive-download)
 
-**Status:** 🟢 Working as of 23 February, 2026\
-*There is no autoupdate. If it stops working, please make sure you are using the [latest version](https://github.com/phawdk/studydrive-download/releases/latest).*\
+**Status:** 🟢 Working as of 28 March, 2026\
+*There is no autoupdate. If it stops working, please make sure you are using the [latest version](https://github.com/phawdk/studydrive-download/releases/latest). If it still doesn't work check the [issues](https://github.com/phawdk/studydrive-download/issues).*\
 ![GitHub Issues Open](https://img.shields.io/github/issues/phawdk/studydrive-download)
 
 
@@ -14,7 +14,7 @@ If you encounter any issues, bugs, or have suggestions, feel free to [create an 
 
 <br>
 
-The download button on Studydrive has been replaced. You can also download the PDFs through the extension popup:
+The extension replaces the download button on Studydrive. You can also download the PDFs through the extension popup:
 
 <br>
 
@@ -25,7 +25,7 @@ The download button on Studydrive has been replaced. You can also download the P
 
 > [!NOTE]
 > - A free Studydrive account is required (login needed).
-> - Only currently displayed files can be downloaded (Anki cards etc. is not supported).
+> - Only currently displayed files can be downloaded (Anki cards, .zip etc. is not supported).
 
 #### Patch history (cat and mouse game moments):
 - 23 July, 2025: Fix Active block
@@ -42,7 +42,7 @@ The download button on Studydrive has been replaced. You can also download the P
 <br>
 
 > [!TIP]
-> If you want to use this extension on mobile, consider using an "Extension Enabled Browser". For example [the Mises Browser](https://www.mises.site/).
+> If you want to use this extension on mobile, consider using a browser that supports extensions. For example [Mises Browser](https://www.mises.site/).
 <br>
 
 
